@@ -11,7 +11,7 @@ Esse jogo foi desenvolvido para a game jam **LIVRE NOEL JAM** feito pela Gamux, 
 
 ## Gameplay:
 
-![](imagens\gameplay2.gif)
+![](imagens/gameplay2.gif)
 
 
 
